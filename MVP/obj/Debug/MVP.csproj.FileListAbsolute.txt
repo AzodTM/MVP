@@ -1,0 +1,9 @@
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\bin\Debug\MVP.exe.config
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\bin\Debug\MVP.exe
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.csprojAssemblyReference.cache
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.exe
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.pdb
+C:\Users\a.s.fedotov\source\repos\MVP\MVP\obj\Debug\MVP.View.resources
